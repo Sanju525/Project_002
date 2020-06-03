@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run D_C19_0206.py
