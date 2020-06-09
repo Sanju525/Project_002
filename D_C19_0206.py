@@ -6,6 +6,7 @@ import altair as alt
 # import numpy as np
 # from vega_datasets import data
 
+# server :: Production [IBM CLOUD - DB2]
 # Replace the placeholder values with your actual Db2 hostname, username, and password:
 
 dsn_hostname = "dashdb-txn-sbox-yp-lon02-02.services.eu-gb.bluemix.net" # e.g.: "dashdb-txn-sbox-yp-dal09-04.services.dal.bluemix.net"
